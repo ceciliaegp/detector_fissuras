@@ -67,4 +67,3 @@ if uploaded_file is not None:
     st.image(imagem_resultado)
 
     st.success("Processamento concluído.")
-```
